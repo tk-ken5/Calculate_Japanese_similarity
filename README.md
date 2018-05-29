@@ -1,0 +1,2 @@
+# Calculate_Japanese_similarity
+Python3による日本語の類似度計算および類義語検索プログラム
